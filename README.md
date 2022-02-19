@@ -1,4 +1,4 @@
-# vue-app
+## Lecture Activity
 
 ## Project setup
 ```
